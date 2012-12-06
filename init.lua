@@ -9,8 +9,8 @@ Version: 0.1
 Depends: default
 
 License for code:
-GPLv3 or later
-(http://www.gnu.org/licenses/gpl-3.0.html)
+GPLv2 or later
+(http://www.gnu.org/licenses/gpl-2.0.html)
 
 License for texture:
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
