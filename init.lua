@@ -4,7 +4,7 @@ Charcoal
 
 Copyright (c) 2012 Gal Buki <torusJKL@gmail.com>
 
-Version: 0.1
+Version: 0.2
 
 Depends: default
 
