@@ -19,6 +19,10 @@ Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 
 local modname = "charcoal"
 
+-- Used for localization
+local S = minetest.get_translator("charcoal")
+
+
 --
 -- Crafting definition
 --
@@ -52,6 +56,6 @@ minetest.register_craft({
 --
 
 minetest.register_craftitem("charcoal:charcoal_lump", {
-        description = "Lump of charcoal",
+        description = S("Lump of charcoal"),
         inventory_image = "charcoal_lump.png",
 })
